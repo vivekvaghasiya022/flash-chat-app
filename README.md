@@ -29,3 +29,17 @@ That screen is only for designing purpose.
 This is where actual chat is happening.
 
 <img src="https://github.com/vivekvaghasiya022/flash-chat-app/blob/master/screenshots/chat_screen.png" height="600" />
+
+
+
+## References
+
+Tutorial that i have followed
+- [Flash Chat - A Lightning Fast Messaging App | The App Brewery](https://www.appbrewery.co/courses/flutter-development-bootcamp-with-dart/lectures/9989498)
+
+The UI from dribbble.com
+- [Chat by Martyna Zielińska on Dribbble](https://dribbble.com/shots/6744951-Chat)
+
+
+## Please remember!!!
+### This app may crash in some device because this version is developed for Google Pexel 3a XL
